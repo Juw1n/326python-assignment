@@ -1,4 +1,4 @@
-// program competes a student's GPA for 6 courses 
+# program competes a student's GPA for 6 courses 
 score_map={'A':5.0, 'B':4.0, 'C':3.0, 'D':2.0, 'F':0.0}
 total_points=0.0
 total_units=0
